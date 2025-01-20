@@ -4,7 +4,7 @@ docker-compose up --build -d
 ```
 Сначала настройка в Keycloak:
 
-
+localhost:8080 (user:admin pass:admin)
 Создайте новый realm
 Создайте нового client с настройками:
 ```
